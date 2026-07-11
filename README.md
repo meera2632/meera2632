@@ -164,4 +164,4 @@ Data Engineering · Data Analysis · Business Intelligence Engineering · Data S
 ## 📫 Let's Connect
 
 📧 meera.dedhia26@gmail.com 
-💼 [LinkedIn](www.linkedin.com/in/meeradedhia)
+💼 [LinkedIn](https://www.linkedin.com/in/meeradedhia/)
