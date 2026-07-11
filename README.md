@@ -11,7 +11,7 @@ I recently completed my MS in Applied Data Science at San Jose State University,
 I like problems that sit between disciplines:
 
 - **ETL/ELT pipelines** that don't fall over under real-world messiness (missing labels, noisy signals, multi-source chaos)
-- **ML systems** - from training to deployment to *actually monitoring what happens after*
+- **ML systems** - from training to deployment to actually monitoring what happens after
 - **LLM-powered agentic workflows** that automate the boring parts of a pipeline
 - **Full-stack & backend systems** - REST/GraphQL APIs, microservices, and the plumbing that gets a model or pipeline in front of real users
 - **Dashboards & reporting** that translate "here's 50K rows" into "here's what to do about it"
@@ -29,7 +29,7 @@ Designed and shipped ETL/ELT pipelines processing 50K+ records daily, deployed L
 Consolidated production data from 20+ distributed systems into centralized, analytics-ready datasets and standardized manufacturing KPIs, improving operational performance by 8-12%.
 
 **Ravi Enterprises** - *Full Stack Engineer Intern* (Mumbai, India)
-Built structured data pipelines and full-stack reporting tools from 10K+ sales and operational records, automating workflows and cutting manual reporting time by ~30%.
+Built structured data pipelines and full-stack reporting tools from 10K+ sales and operational records, automating workflows and cutting manual reporting time by ~45%.
 
 **San Jose State University** - *Research Assistant, Applied AI for Intelligent Vehicles*
 Trained deep learning + reinforcement learning models for real-time acoustic event detection (sirens, crashes), achieving up to 99% accuracy and cutting false positives by 66%.
@@ -50,8 +50,8 @@ Trained deep learning + reinforcement learning models for real-time acoustic eve
 
 **Data Engineering & Pipelines**
 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
@@ -106,8 +106,8 @@ Trained deep learning + reinforcement learning models for real-time acoustic eve
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
 
 **Software Engineering**
 
@@ -124,7 +124,7 @@ Trained deep learning + reinforcement learning models for real-time acoustic eve
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 
 <details>
-<summary><b>📋 Full skill list (concepts & methods not covered above)</b></summary>
+<summary><b>📋 Full Skill List</b></summary>
 <br>
 
 **Data Engineering:** ETL/ELT Pipelines, Batch & Streaming Processing, Incremental Loads, Data Lineage, Metadata Management, Data Profiling, Lakehouse Architecture
